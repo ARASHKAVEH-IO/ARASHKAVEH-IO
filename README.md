@@ -57,7 +57,7 @@
 
 ---
 
-### 🪓 Just for Style...
+### 🪓 ITS THE END
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5555&center=true&vCenter=true&width=800&lines=//+No+motivation+quotes+here.;%23+Just+code+until+it+hurts.;%23+Sleep+is+for+deployment.;%23+Yes%2C+this+is+the+dark+side+of+GitHub.;%23+You're+still+scrolling%3F+Why%3F" alt="sarcastic dev typing animation" />
