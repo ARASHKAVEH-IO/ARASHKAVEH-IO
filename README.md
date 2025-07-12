@@ -57,15 +57,24 @@
 
 ---
 
-### 🪓 ITS THE END
+### 🧠 ITS THE END
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5555&center=true&vCenter=true&width=800&lines=//+No+motivation+quotes+here.;%23+Just+code+until+it+hurts.;%23+Sleep+is+for+deployment.;%23+Yes%2C+this+is+the+dark+side+of+GitHub.;%23+You're+still+scrolling%3F+Why%3F" alt="sarcastic dev typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=//+Still+reading+this%3F+Wow.;%23+You're+either+really+bored...;or+really+interested.;%23+Either+way%2C+I'm+flattered.;cd+github%2Fdarkness;./deploy.sh+--force" alt="terminal hacker typing animation" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arashkaveh&theme=github-compact&hide_border=true&area=true&color=FF5555&line=FF5555" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arashkaveh&theme=react-dark&hide_border=true&area=true&color=39FF14&line=39FF14" alt="glitch graph"/>
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="600" alt="glitchy hacker animation"/>
+</div>
+
 
 
 ---
