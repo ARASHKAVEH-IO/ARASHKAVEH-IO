@@ -57,23 +57,26 @@
 
 ---
 
-### 🧠 ITS THE END
+### 🧠 Just for Style...
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=//+Still+reading+this%3F+Wow.;%23+You're+either+really+bored...;or+really+interested.;%23+Either+way%2C+I'm+flattered.;cd+github%2Fdarkness;./deploy.sh+--force" alt="terminal hacker typing animation" />
 </div>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arashkaveh&theme=react-dark&hide_border=true&area=true&color=39FF14&line=39FF14" alt="glitch graph"/>
-</div>
+> 🧩 **Reality Check (In Comments)**  
+> `// productivity != hours on the keyboard`  
+> `// code works, don’t touch it`  
+> `// yes, I tested it in production`  
+> `// commit message: “final_final_FIX_REALLY_final.py”`  
+> `// I swear this worked last night`  
+> `// it’s not a bug, it’s a feature`  
+> `// don’t ask me how it works — it just does`  
+> `// I'm not lazy, I'm just energy-efficient`  
+> `// TODO: take over the world`
 
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="600" alt="glitchy hacker animation"/>
-</div>
+---
 
 
 
