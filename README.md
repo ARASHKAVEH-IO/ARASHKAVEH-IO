@@ -18,7 +18,7 @@
 ### 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c++,django,postgresql,html,docker,css,git,github,vscode,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,html,docker,css,git,github,vscode,pycharm,cpp&theme=dark" />
 </div>
 
 ---
@@ -63,5 +63,3 @@
 ---
 
 > 🚀 *Thanks for visiting my profile! Stay tuned for more cool projects.*
-
-
