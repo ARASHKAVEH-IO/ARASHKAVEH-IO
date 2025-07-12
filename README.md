@@ -18,7 +18,7 @@
 ### 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,C++,django,postgresql,html,docker,css,git,github,vscode,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c++,django,postgresql,html,docker,css,git,github,vscode,pycharm&theme=dark" />
 </div>
 
 ---
