@@ -2,8 +2,9 @@
 <h3 align="center">NOTHING TO SAY JUST WATCH</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&width=435&lines=Student+%7C+Backend+Developer;Learning+Django%2C+PostgreSQL%2C+Advanced+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=%3E+Hi%2C+I'm+Arash+Kaveh...;class+BackendDeveloper%3A;++++def+__init__(self)%3A;++++++++learn('Python'%2C+'Django'%2C+'Databases');++++def+build(self)%3A;++++++++return+'Clean+%26+Powerful+APIs';#+Just+watch+%26+enjoy+the+code+flow+%F0%9F%94%A5" alt="typing animation" />
 </div>
+
 
 ---
 
@@ -11,7 +12,7 @@
 - 🎓 I'm a student currently diving deep into **advanced Python**, **databases**, and **Django**.
 - 🔭 I’m focused on building solid **backend systems** and scalable web apps.
 - 🌱 Currently learning: Django REST Framework, PostgreSQL optimization, and deployment tools.
-- ⚡ Fun quote: `"NOTHING TO SAY JUST WATCH"`
+- ⚡ Dark quote: `"In the end, all codes decays. only bugs are eternal."`
 
 ---
 
