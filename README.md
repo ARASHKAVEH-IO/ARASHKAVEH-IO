@@ -45,7 +45,7 @@
 > *I'll update these soon!*
 
 - 🌍 Website: [Coming Soon]
-- 📫 Email: [Coming Soon]
+- 📫 Email: arashkaveh2006@gmail.com
 - 💼 LinkedIn: [Coming Soon]
 
 ---
