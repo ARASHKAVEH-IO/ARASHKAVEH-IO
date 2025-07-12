@@ -57,27 +57,9 @@
 
 ---
 
-### 🧠 Just for Style...
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=//+Still+reading+this%3F+Wow.;%23+You're+either+really+bored...;or+really+interested.;%23+Either+way%2C+I'm+flattered.;cd+github%2Fdarkness;./deploy.sh+--force" alt="terminal hacker typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=//+Still+reading+this%3F+Wow.;%23+You're+either+really+bored...;or+really+interested.;%23+Either+way%2C+I'm+flattered.;cd+github%2Fdarkness;./deploy.sh+--force;#+'Works+on+my+machine'+certified.;#+Feature+or+bug%3F+who+knows.;#+'Temporary'+code+since+2020.;#+'AI+will+replace+you'+they+said.;#+'Clean+code'+is+a+myth.;#+'Fix'+means+rewrite+from+scratch.;exit+--quiet+--no-regrets" alt="terminal hacker typing animation" />
 </div>
-
----
-
-> 🧩 **Reality Check (In Comments)**  
-> `// productivity != hours on the keyboard`  
-> `// code works, don’t touch it`  
-> `// yes, I tested it in production`  
-> `// commit message: “final_final_FIX_REALLY_final.py”`  
-> `// I swear this worked last night`  
-> `// it’s not a bug, it’s a feature`  
-> `// don’t ask me how it works — it just does`  
-> `// I'm not lazy, I'm just energy-efficient`  
-> `// TODO: take over the world`
-
----
-
 
 
 ---
