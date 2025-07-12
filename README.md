@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=%3E+Hi%2C+I'm+Arash+Kaveh...;class+BackendDeveloper%3A;++++def+__init__(self)%3A;++++++++learn('Python'%2C+'Django'%2C+'Databases');++++def+build(self)%3A;++++++++return+'Clean+%26+Powerful+APIs';#+Just+watch+%26+enjoy+the+code+flow+%F0%9F%94%A5" alt="typing animation" />
 </div>
 
-
 ---
 
 ### 🧠 About Me
@@ -58,12 +57,11 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=//+Still+reading+this%3F+Wow.;%23+You're+either+really+bored...;or+really+interested.;%23+Either+way%2C+I'm+flattered.;cd+github%2Fdarkness;./deploy.sh+--force;#+'Works+on+my+machine'+certified.;#+Feature+or+bug%3F+who+knows.;#+'Temporary'+code+since+2020.;#+'AI+will+replace+you'+they+said.;#+'Clean+code'+is+a+myth.;#+'Fix'+means+rewrite+from+scratch.;exit+--quiet+--no-regrets" alt="terminal hacker typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=//+Still+reading+this%3F+Wow.;%23+You're+really+bored+or+really+curious.;%23+Either+way%2C+thanks+I+guess.;cd+github%2Fdarkness;./deploy.sh+--force;#+'Works+on+my+machine';#+'Feature'+or+'bug'%3F+who+knows.;#+'Temporary'+code+since+2020.;#+'AI+will+replace+you'+they+said.;#+'Clean+code'+is+a+myth.;#+'Fix'+means+'start+over';exit+--quiet+--no-regrets" alt="terminal hacker typing animation" />
 </div>
-
-
 
 ---
 
 > 🚀 *Thanks for visiting my profile! Stay tuned for more cool projects.*
+
 
