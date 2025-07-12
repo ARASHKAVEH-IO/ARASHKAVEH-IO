@@ -59,13 +59,8 @@
 ### 🎨 Just for style...
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=print(%22Welcome+to+my+GitHub!%22);while(True):+code();+build();+learn()" alt="terminal typing animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arashkaveh&theme=react-dark&hide_border=true&area=true" alt="activity graph"/>
-</div>
-
 
 ---
 
